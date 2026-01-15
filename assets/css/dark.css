@@ -135,3 +135,31 @@ footer .container {
   padding: 0.1875rem;
   margin-left: 0.3125rem;
 }
+
+/* Services Section */
+.dark,
+.dark .services-section {
+  background-color: #222;
+}
+
+.dark,
+.dark .service-card {
+  background-color: #333;
+  color: #e6e6e6;
+}
+
+.dark,
+.dark .service-title {
+  color: #e6e6e6;
+}
+
+.dark,
+.dark .service-description {
+  color: #a6a2a2;
+}
+
+.dark,
+.dark .service-card:hover {
+  background-color: #3a3a3a;
+  border-color: #ea4492;
+}
